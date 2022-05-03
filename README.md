@@ -1,0 +1,2 @@
+# mask-data-set-anndl
+to classify images depicting groups of people based on the number of masked people. In the specific, your solution must discriminate between images depending on the following cases: 1) All the people in the image are wearing a mask, 2) No person in the image is wearing a mask, 3) Someone in the image is not wearing a mask. In the following 3 examples of image from the training belonging to the three cases (Up-Left (1), Up-Right (3), Bottom (2)).
